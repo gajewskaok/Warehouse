@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karol\\Desktop\\WarehouseApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD12275-3D9E-4D1B-BF1E-E10D14CA1A3F}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\karol\\desktop\\warehouseapp\\warehouseapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBD12275-3D9E-4D1B-BF1E-E10D14CA1A3F}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD12275-3D9E-4D1B-BF1E-E10D14CA1A3F}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\karol\\desktop\\warehouseapp\\warehouseapp\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD12275-3D9E-4D1B-BF1E-E10D14CA1A3F}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD12275-3D9E-4D1B-BF1E-E10D14CA1A3F}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\karol\\desktop\\warehouseapp\\warehouseapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD12275-3D9E-4D1B-BF1E-E10D14CA1A3F}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD12275-3D9E-4D1B-BF1E-E10D14CA1A3F}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\karol\\desktop\\warehouseapp\\warehouseapp\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD12275-3D9E-4D1B-BF1E-E10D14CA1A3F}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD12275-3D9E-4D1B-BF1E-E10D14CA1A3F}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\karol\\desktop\\warehouseapp\\warehouseapp\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBD12275-3D9E-4D1B-BF1E-E10D14CA1A3F}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD12275-3D9E-4D1B-BF1E-E10D14CA1A3F}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\karol\\desktop\\warehouseapp\\warehouseapp\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBD12275-3D9E-4D1B-BF1E-E10D14CA1A3F}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD12275-3D9E-4D1B-BF1E-E10D14CA1A3F}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\karol\\desktop\\warehouseapp\\warehouseapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD12275-3D9E-4D1B-BF1E-E10D14CA1A3F}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD12275-3D9E-4D1B-BF1E-E10D14CA1A3F}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\karol\\desktop\\warehouseapp\\warehouseapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD12275-3D9E-4D1B-BF1E-E10D14CA1A3F}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD12275-3D9E-4D1B-BF1E-E10D14CA1A3F}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\karol\\desktop\\warehouseapp\\warehouseapp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD12275-3D9E-4D1B-BF1E-E10D14CA1A3F}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD12275-3D9E-4D1B-BF1E-E10D14CA1A3F}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\karol\\desktop\\warehouseapp\\warehouseapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD12275-3D9E-4D1B-BF1E-E10D14CA1A3F}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\Desktop\\WarehouseApp\\WarehouseApp\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Controllers\\SuppliersController.cs",
+              "ToolTip": "C:\\Users\\karol\\Desktop\\WarehouseApp\\WarehouseApp\\Controllers\\SuppliersController.cs",
+              "RelativeToolTip": "WarehouseApp\\Controllers\\SuppliersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:18:48.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\Desktop\\WarehouseApp\\WarehouseApp\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\karol\\Desktop\\WarehouseApp\\WarehouseApp\\Models\\Supplier.cs",
+              "RelativeToolTip": "WarehouseApp\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:14:24.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\karol\\Desktop\\WarehouseApp\\WarehouseApp\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\karol\\Desktop\\WarehouseApp\\WarehouseApp\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "WarehouseApp\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T17:10:31.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\karol\\Desktop\\WarehouseApp\\WarehouseApp\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\karol\\Desktop\\WarehouseApp\\WarehouseApp\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "WarehouseApp\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T17:09:28.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\Desktop\\WarehouseApp\\WarehouseApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\karol\\Desktop\\WarehouseApp\\WarehouseApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WarehouseApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:58:41.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\karol\\Desktop\\WarehouseApp\\WarehouseApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WarehouseApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\karol\\Desktop\\WarehouseApp\\WarehouseApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WarehouseApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T16:57:59.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\Desktop\\WarehouseApp\\WarehouseApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\karol\\Desktop\\WarehouseApp\\WarehouseApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WarehouseApp\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAcwHgAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:57:41.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\Desktop\\WarehouseApp\\WarehouseApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\karol\\Desktop\\WarehouseApp\\WarehouseApp\\Models\\Category.cs",
+              "RelativeToolTip": "WarehouseApp\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:54:32.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\Desktop\\WarehouseApp\\WarehouseApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\karol\\Desktop\\WarehouseApp\\WarehouseApp\\Models\\Product.cs",
+              "RelativeToolTip": "WarehouseApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:53:28.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\Desktop\\WarehouseApp\\WarehouseApp\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\karol\\Desktop\\WarehouseApp\\WarehouseApp\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "WarehouseApp\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:38:43.599Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
